@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(199, 193, 181);
+    color: rgb(13, 32, 60);
+    align-items: center;
+}
+#subjudul{
+    align-items: center;
+}
+table {
+    border-collapse: collapse;
+    width:700px;
+    margin-top: 10px;
+    border: 2px solid rgb(13, 32, 60);
+    margin: 10px auto;
+}
+
+td {
+    padding:15px;
+    text-align: left;
+    vertical-align: top;
+    border: 2px solid rgb(13, 32, 60);
+}
+
+#jdl {
+    font-weight: bold;
+    text-align: center;
+}
+
+.Lukisan {
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+.isi {
+    display: inline-block;
+    margin-left: 10px; 
+    margin: 0;
+    padding: 0;
+    line-height: 1.1;
+}
+
+img {
+    width: 200px;
+    height:150px;
+    border-radius: 10px;
+}
+table td p {
+    margin: 0;
+}
